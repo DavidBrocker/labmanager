@@ -4,6 +4,7 @@
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, comment = FALSE)
 ```
+<br>
 
 ### **Introduction to R-Studio: Seminar Series**
 ###### *by David Brocker*
