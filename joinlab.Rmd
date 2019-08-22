@@ -4,19 +4,18 @@ output: html_document
 <br>  
 
 #### **If you are interested in joining the lab, please fill out the form below:**
+<br><br>
+ <form action="https://docs.google.com/forms/d/e/1FAIpQLSdUfecs9ZMt-eT-xDDX75TcvjcNcxj65lDCAIOQ0HWIe-CyIA/formResponse" target="_self" method="POST" id="mG61Hd">
+  
+  <label>Name: </label> <input name="entry.832271066" type="text"/> 
+  <br><br>
+ <label>Major: </label> <input name="entry.1241588410" type="text"/> 
+ <br><br>
+  <label>Email Address: </label> <input name="entry.1746302575" type="email"/>
+  <br><br>
+  <label>Faculty Member Interest: </label> <input name="entry.569512734" type="text"/> 
+  <br><br><br><br>
+  <button type="submit">Send</button></form>
+  
 
-
-
-<form class="form" 
-action="https://docs.google.com/forms/u/2/d/e/1FAIpQLSdUfecs9ZMt-eT-xDDX75TcvjcNcxj65lDCAIOQ0HWIe-CyIA/formResponse">
-
- <label>Email</label>
- <input type="email" class="quantumWizTextinputPaperinputInput exportInput" jsname="YPqjbf" autocomplete="email" tabindex="0" aria-label="Your email" name="emailAddress" value="" required="" dir="auto" data-initial-dir="auto" data-initial-value="" aria-invalid="true">
- 
- <label>Name</label>
- <input type="text" class="quantumWizTextinputPaperinputInput exportInput" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-label="What is your name?" aria-describedby="i.desc.432952216 i.err.432952216" name="entry.832271066" value="" dir="auto" data-initial-dir="auto" data-initial-value="" aria-invalid="false">
- 
- <label>Major</label>
- <input type="text" class="quantumWizTextinputPaperinputInput exportInput" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-label="What is your major?" aria-describedby="i.desc.231491755 i.err.231491755" name="entry.1241588410" value="" dir="auto" data-initial-dir="auto" data-initial-value="" aria-invalid="false">
- 
- </form>
+  </form>
