@@ -1,0 +1,63 @@
+---
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment = FALSE)
+```
+
+### **Introduction to R-Studio: Seminar Series**
+###### *by David Brocker*
+
+***
+
+###### **What is R?**
+
+R is a programming language used for statistical computation and data analaysis. The use of R in the field of psychology is nothing new, but it has gained popularity over the last decade. More and more companies are asking for prospective employees to have some knowledge and experience in using R. R is unique because it what is know as "freeware", that is, software that comes at no cost to the user. R is also mostly open-source so that anyone can add options to the program that fit their own needs. This is especially useful for data sceintsists and researchers who would like to either automate procedures or create specific functions that will help them analyze their data. 
+
+***
+
+###### **Who is R 'for'?**
+
+R is for everyone! The prospect of programming comes loaded with images of errant parantheses, commas, and dreaded <span style="color:red">red text!</span> R is an easy to understand way of writing that emphasizes practicality. There are advanced methods that embrace a more traditional style of programming, but for those using it to analyze data and create visually appealing graphs, there is not much to fear. 
+
+***
+
+###### **For Students**
+
+I have taught statistics using R in the past and on the whole, it was a good experience. I think that the interest for R should be additive as opposed to being the entirety of ones statistics learning. Statistics is a daunting subject to begin with, coupled with the use of a computer software and light-programming, it can make for a difficult time. 
+
+This seminar is for students who want to give themselves a bit of a challenge. Additionally, this knowledge will help you as you continue on your education, or your professional career. You will find that most research positions you apply to will make a note about the suggested qualifications, chief among those will be knowledge in R.    
+
+***
+
+###### **For Instructors and Researchers**
+
+R is an excellent tool to use. It is especially good for ease of access as it does not require a license to be run, and students can use it off-campus without having to use a virtual desktop. Apart from using R as an instructional tool, its use in research analaysis is pretty handy as well!
+
+R code can be run in the console or stored as a script for automation. In my own research I used R to run every test I needed and as I collected more data I could refresh the file linked to the script and it would generate the new reports. Additionally, R has a powerful markdown editor, rMarkdown, that can make the reproduction of reports, articles, manuscripts, blogposts, and even this website possible. 
+
+***
+
+##### **Introduction to R-Studio: The Basics**
+In this seminar, we will go over how to install, and use R-Studio. We will discuss the different classes of data (integer, numeric, string, matrix,and data frame), as well as how to perform simple math and store data in vectors and variables.
+<br><br>
+
+##### **Introduction to R-Studio: Descriptive Statistics**
+In this seminar, we will go over how to create a data set to work with using the `rnorm()` and `pnorm()` functions. We will use the functions `mean()`, `median()`, and `range()` to get measures of central tendency.
+<br><br>
+
+##### **Introduction to R-Studio: Plotting and Graphs**
+In this seminar, we will go over how to create a plot from a data set. We will use the `barplot()`, `plot()`, and `boxplot()`functions in order to represent data graphically. 
+<br><br>
+
+##### **Introduction to R-Studio: Inferential Statsitics**
+In this seminar, we will go over how to arrange data for use with the functions that will produce inferential statistics. We will be using `t.test()`, `lm()`, and `aov()` in order to produce t-tests, linerar models, and ANOVA's. 
+<br><br>
+
+##### **Introduction to R-Studio: rMarkdown**
+In this seminar, we will go over the syntax of the markdown language and how it is implemented into R. R uses what are called "chunks" to represent inline code that is run each time a file in run. This code displays the code to the viewer, as well as its results.
+
+
+
+<br>
+
