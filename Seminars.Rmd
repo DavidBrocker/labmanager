@@ -39,11 +39,11 @@ R code can be run in the console or stored as a script for automation. In my own
 
 ***
 
-##### **Introduction to R-Studio: The Basics**
+##### [**Introduction to R-Studio: The Basics**](files/Seminar-1.html)
 In this seminar, we will go over how to install, and use R-Studio. We will discuss the different classes of data (integer, numeric, string, matrix,and data frame), as well as how to perform simple math and store data in vectors and variables.
 <br><br>
 
-##### **Introduction to R-Studio: Descriptive Statistics**
+##### [**Introduction to R-Studio: Descriptive Statistics**](files/Seminar-2.html)
 In this seminar, we will go over how to create a data set to work with using the `rnorm()` and `pnorm()` functions. We will use the functions `mean()`, `median()`, and `range()` to get measures of central tendency.
 <br><br>
 

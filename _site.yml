@@ -9,6 +9,8 @@ navbar:
       href: joinlab.html
     - text: "Seminars"
       href: Seminars.html
+    - text: "Faculty"
+      href: Faculty.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:brockeda@farmingdale.edu

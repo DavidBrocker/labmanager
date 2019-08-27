@@ -1,0 +1,70 @@
+---
+title: ''
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+
+#### **Lab Calendar**
+***
+
+For faculty, please enter your username and password below to access the lab calendar.
+
+Students, if you have navigated to this page by mistake, click [here](https://davidbrocker.github.io/labmanager/) to redirect to the home page. 
+
+<br>
+<form>
+
+<p><strong>Username:</strong>
+
+  <input type="text" name="text2">
+
+</p>
+
+<p><strong>Password:</strong>
+
+<input type="password" name="text1">
+
+  <input type="button" value="Submit" name="Submit" onclick=javascript:validate(text2.value,"psychfaculty",text1.value,"12345") >
+
+</p>
+
+ 
+
+</form>
+
+<script language = "javascript">
+
+
+function validate(text1,text2,text3,text4)
+
+{
+
+ if (text1==text2 && text3==text4)
+
+ load('https://calendar.google.com/calendar/embed?src=davidabrocker%40gmail.com&ctz=America%2FNew_York');
+
+ else
+
+ {
+
+  load('failure.htm');
+
+ }
+
+}
+
+function load(url)
+
+{
+
+ location.href=url;
+
+}
+
+</script>
+
+ 
